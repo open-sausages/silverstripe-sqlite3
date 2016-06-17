@@ -1,5 +1,7 @@
 <?php
 
+use SilverStripe\ORM\Connect\SS_Query;
+
 /**
  * A result-set from a SQLite3 database.
  * 

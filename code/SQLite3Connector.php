@@ -1,5 +1,7 @@
 <?php
 
+use SilverStripe\ORM\Connect\DBConnector;
+
 /**
  * SQLite connector class
  * 
